@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Frontend a little bit and backend most
 - 💞️ I’m looking to collaborate on Frontend Stuff
-- 📫 How to reach me chinmaykulthae897@gmail.com
+- 📫 How to reach me chinmaykulthae24@gmail.com
 
 
 <!---
